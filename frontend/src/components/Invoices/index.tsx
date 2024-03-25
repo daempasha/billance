@@ -1,4 +1,3 @@
-import { BiPlus } from "react-icons/bi";
 import { PiPlusCircleFill } from "react-icons/pi";
 
 export const Invoices = () => {
